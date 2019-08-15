@@ -9,11 +9,11 @@ Default | Dark | Light
 
 
 ## Based on
-Angular 4+, Angular CLI, TypeScript, Scss, Bootstrap
+Angular 7+, Angular CLI, TypeScript, Scss, Bootstrap 3
 
 ## Demo
 
-[Live Demo](http://treesflower.com/ng-pi-admin)
+[Live Demo](https://treesflower.com/ng-pi-admin)
 
 ## Getting started
 ```
@@ -24,6 +24,10 @@ npm install
 ng serve 
 
 localhost:4200
+```
+## Change theme
+```
+Edit src\app\shared\theme\conf.scss
 ```
 
 ## License
